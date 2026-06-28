@@ -1,0 +1,723 @@
+﻿产品,默认用户,默认密码
+资产灯塔系统,admin,arlpass
+重庆普天 CP ADSL03,root,root
+中远麒麟堡垒机审计用户,audit,12345678
+中远麒麟堡垒机,admin,12345678
+中兴adsl841,admin,private
+中新金盾硬件防火墙,admin,123
+中新金盾信息安全管理系统,admin,zxsoft1234!@#$
+中控考勤机web3.0,administrator,123456
+中国移动 禹路由,(none),admin
+致远 OA 协同办公系统,system,system
+,group-admin,123456
+,admin1,
+,audit-admin,
+长虹 ch-500E,root,root
+佑友邮件系统,admin,hicomadmin
+佑友防火墙,admin,hicomadmin
+亿邮邮件网关,eyouuser/leyougw/admin,eyou_admin/admin@(eyou)/cyouadmin/+-ccccc
+伊泰克,supervisor,12345
+信呼协同办公(OA)系统,admin,123456
+信呼协同办公(OA)系统,zhangfei,123456
+协众OA Mysql,root,cnoa.cn2010password
+文网卫士 路由器,wwws,admin
+网御星云安全网关,administrator/admin,leadsec@7766、administrator
+网御事件服务器,admin,admin123
+网御上网行为管理系统,admin,leadsec
+网御入侵检测系统V3.2.72.0,adm/admin,leadsec32
+网御漏洞扫描系统,leadsec,leadsec
+网御安全日志审计管理系统,useradmin/auditor,leadsec.useradmin/leadsec.auditor
+网御WAF集中控制中心(V3.0R5.0),admin/Audit/adm,leadsec.waf
+网御星云防火墙,administrator,administrator
+网域科技下一代防火墙,admin,admin*PWD
+网域科技上网行为管理,admin,admin*PWD
+网神防火墙,firewall,firewall
+网络卫士入侵检测系统,ladmin,talent
+网络安全审计系统(中科新业),admin,123456
+网康日志中心,ns25000,ns25000
+同维 DSL699E,ROOT,ROOT
+天天期网络安全审计系统,Admin,cyberaudit
+天融信数据库审计系统,superman,telent
+天融信防火墙NGFW4000,superman,talent
+天融信 Reporter,guest,guest*PWD
+天清汉马USG防火墙,admin/Audit/useradmin,venus.fw/venus.audit/venus.user
+天迈科技网络视频监控系统,admin,admin
+台湾突破 EA110 RS232:38400,SL,SL
+锁群管理系统v2.0,admin,123456
+梭子鱼邮件存储网关,admin,admin
+斯威特,root,root
+斯威特,user,user
+思福迪堡垒机,admin,safetybase
+水星 MW150R,admin,admin
+实达2110EH ROUTER,root,grouter
+实达2110EH ROUTER,user,password
+实达 V5.4,root,grouter
+实达 V3.2,root,root
+狮子鱼社区团购系统,admin,admin888
+神州数码6010RA,adsl,adsl1234
+神行者路由,admin,sxzros
+深圳锐明行驶记录仪,admin,120223
+深信服上网行为管理设备数据中心,Admin,(none)
+深信服负载均衡 AD3.6,admin,admin
+深信服产品 AD,sangfor,dlanrecover
+深信服产品,sangfor,sangfor/sangfor@2018/sangfor@2019
+深信服WAC （WNS V2.6）,admin,admin
+深信服V-P-N,Admin,Admin
+深信服SANGFOR防火墙,admin,sangfor
+深信服NGAF下一代应用防火墙(NGAF V4.3),admin,admin
+深信服IPSEC V-P-N SSL (5.5),Admin,Admin
+深信服AF(NGAF V2.2),admin,sangfor
+深信服AD3.9,admin,admin
+深信服AC 6.0,admin,admin
+深信服 EDR,root,edr@sangfor
+深信服 EDR,admin(初始化用户),admin
+上海中达,任意,12345
+山石网科,hillstone,hillstone
+锐捷WALL1600下一代防火墙,admin,firewall
+锐捷Smartweb管理系统,guest,guest
+Ruijie-RG-UAC,admin,ruijie@123
+全向QL1680,admin,qxcomm1680/qxcommsupport/root/ qxcomm1688
+全向 qxcomm1680,(none),qxcomm1680/qxcommsuport
+启明天玥运维安全网关（堡垒机）,sysuseradmin,sua_password$123
+启明天玥运维安全网关（堡垒机）,sysauditor,sa_password$123
+启明天玥运维安全网关（堡垒机）,sysadmin,password$123
+启明天阗入侵检测与管理系统V7.0,Admin/Audit/adm,venus70
+启明天阗入侵检测与管理系统V6.0,Admin/Audit/adm,venus60
+启明OSM-3600天玥网络安全审计系统,sysadm,sys$admin@028
+启明星辰,admin,bane@7766/admin@123
+启莱OA,admin,admin
+麒麟堡垒机,freesvr,freesvr
+奇安信云管平台(osmp),sysadmin,csmp@CLOUD987
+奇安信网神SecFox运维安全管理与审计系统,admin,!1fw@2soc#3v-p-n
+奇安信网神SecFox运维安全管理与审计系统,admin,!1fw@2soc#3vpn
+奇安信网神SecADS 3600,useradmin,useradmin
+奇安信所有产品,Admin,!1ws
+明御运维审计与册风险控制系统,admin/system/auditor/operator,1q2w3e/1q2w3e4r
+明御网站卫士,sysmanager,sysmanager888
+明御攻防实验室平台,root,123456
+明御安全网关,admin,adminadmin
+明御WEB应用防火墙,admin,admin/adminadmin
+马强OA协同办公管理系统,maqiang,mq123456
+绿盟产品,空用户,nsfocus123/nsf0cus
+绿盟安全审计系统,weboper/webaudit/conadmin/admin/shell,weboper/webaudit/conadmin/admin/shell
+绿盟IPS/IDS,admin,Nsfocus@123
+绿盟 UTS综合威胁探针,admin,Nsfocus@123
+,auditor,auditor
+联想网御入侵检测系统IDS,root/admin,111111/admin123
+联想网御入侵检测系统,lenovo,default
+联想网御防火墙PowerV,administrator,administrator
+联想网御公众号网络安全新视界,administrator,administrator
+联通友华光猫PT952G,admin,123456
+联软IT安全运维管理系统,admin,Tiaolc@lv7000
+联软IT安全运维管理系统,audit,Tiaolc@lv7000
+蓝凌 OA 协同办公系统,luor,26012345
+科迈易通 km300A-G,root,root
+科迈易通 km300A-A,root,123456
+科迈易通 km300A-A,admin,123456
+科迈易通 km300A-1,空用户,password
+科来网络回溯分析系统,csadmin,colasoft
+开源OA系统 o2oa,xadmin,o2
+景云网络防病毒系统,super,super123
+金山 V8 终端安全系统,admin,admin
+金合OA,admin,0
+佳发巡查指挥系统,test,123456
+霍尼韦尔接警机设备,admin,admin
+华夏ERP,jsh,123456
+华为FusionCompute,sysadmin,Sysadmin#
+,secadmin,Secadmin#
+,secauditor,Secauditor#
+,admin,IaaS@PORTAL-CLOUD8!
+,,Huawei@CLOUD8!
+,,Huawei12#$
+,root,Iaas@0S-CLOUD8!
+,gandalf,Iaas@0S-CLOUD9!
+华为FusionCloud,root,Liiw@2Wb
+,arbiter,tNsZg@123
+,,Sy@1#315-0C6
+华为应用安全(WAF),admin,Admin@123
+,root,Changeme@321
+华为应用安全(UMA),admin,Admin@storage
+,superman,Changeme@321
+,root,Changeme@321
+,Administrator,Changeme@321
+华为应用安全(SecoManager),admin,Changeme_123
+,admin,Admin123
+,swift,Huawei12#$
+,root,Huawei12#$
+,root,Changeme_123
+,readdbuser,Changeme_123
+,ossdbuser,Changeme_123
+,dbuser,Admin@123
+,--,Admin@9000
+,Administrator,Admin@9000
+,admin,Changeme123
+华为应用安全(AVE),--,O&m15213
+,admin,Admin@123
+华为无线局域网,admin,admin@huawei.com
+华为网络管理(eSight Network),admin,Changeme123
+,ossuser,Changeme_123
+,dbadmin,Changeme_123
+,cyg_server,hangeme_123
+,sshd,Changeme_123
+,admin,Changeme_123
+,sys,Changeme123
+,JsonName,Changeme_123
+,admin,eSight@123
+,openApiUser,Changeme_123
+华为摄像头SDK,空用户,HuaWei123
+华为入侵检测系统,-,Admin@huawei
+,admin,Admin@123
+,audit-admin,Admin@123
+,-,O&m15213
+华为敏捷控制器,sa,无
+,ftp,Ftp12345
+,ideploySftp,Ftp12345
+,breeze,Derby123
+,无,defaultCertPwd@12
+,root,sek123
+,kafka_common,无
+,quagga,无
+,arbiter,无
+,controller,无
+,puppet,无
+,dmq,无
+,kafka_external,无
+,db_root,无
+,root,Huawei12#$
+,swift,Huawei13#$
+,testRadiusConnection,无
+,admin,Changeme123
+,bin,无
+,daemon,无
+,ftp,无
+,ftpsecure,无
+,games,无
+,ldap,无
+,lp,无
+,mail,无
+,man,无
+,messagebus,无
+,news,无
+,nobody,无
+,nscd,无
+,ntp,无
+,rpc,无
+,sshd,无
+,statd,无
+,systemd-bus-proxy,无
+,systemd-timesync,无
+,uucp,无
+,wwwrun,无
+,hwacadmin,随机生成
+,hwac,随机生成
+,db_root_local,随机生成
+,hwacshell,随机生成
+,db_root_loacl,无
+,db_root,用户设置
+,admin,Admin123
+,无,Wo#a*Vk%._88
+,ftp,Ftp12345
+,ideploySftp,Ftp12345
+,breeze,Derby123
+,administrator/SWMaster,Changeme123
+,AgileControllerMCDBA,Changeme123（预安装）/安装时自行设置（自行安装）
+,controller,Changeme123
+,oracle,Changeme123
+华为交换机(CloudEngine),-,Admin@huawei.com
+,admin,admin@huawei.com
+,admin,admin
+,-,huawei
+,-,Admin@huawei.com
+华为高级威胁防御(LogCenter),loguser,Changeme123
+,root,Changeme123
+,commonuser,Changeme123
+,admin,Changeme123
+,-,Huawei12#$
+,root,Huawei12#$
+华为高级威胁防御(FireHunter6000),Administrator,Admin@9000
+,root,Changeme123
+,backupssl,Changeme_123
+,commonuser,Changeme123
+,dbadmin,Changeme_123
+,omm,Bigdata123@
+,admin,Changeme123
+,root,Huawei12#$
+,root,Admin@123
+,sandbox,Admin@123
+,admin,Admin@123
+,-,Huawei12#$
+,root,Huawei12#$
+华为高级威胁防御(eLog),omm,Changeme123
+,root,Changeme123
+,commonuser,Changeme123
+,dbadmin,Changeme_123
+,admin,Changeme123
+,-,Admin@9000
+,Administrator,Admin@9000
+华为防火墙(USG),api-admin,admin@123
+华为安全接入网关(SVN),-,WWW@HUAWEI
+,admin,Admin@123
+,admin,Admin@123
+,audit-admin,Admin@123
+,admin,Admin@123
+,-,O&m15213
+,telnetuser,telnetpwd
+,ftpuser,ftppwd
+华为WDM,admin,Changeme_123
+,root,Changeme_123
+,szhw,Changeme_123
+,lct,Changeme_123
+华为SMARTAX MT800,admin,admin
+华为POL,root,admin123
+华为OLT,Epuser,userEp
+华为ONT,root,adminHW
+,user,*****
+,root,admin
+华为NE路由器,root,Changeme_123
+,-,WWW@HUAWEI
+,-,WWW@HUAWEI
+华为MDU,-,mduadmin
+,root,mduadmin
+,root,mduadmin
+,root,admin123
+华为AR路由器,-,Admin@huawei
+,admin,admin@huawei.com
+,admin,Admin@huawei.com
+,admin,admin
+华为AntiDDoS网关,admin,Admin@123
+,ddosatic,Admin_123
+,admin,Admin@123
+,•如果操作系统未安全加固，请使用帐号名“administrator”。•如果操作系统已安全加固，请使用帐号名“SWMaster”。,Changeme123
+,admin,Admin@123
+,-,WWW@HUAWEI
+华为VPN,root,mduadmin
+华硕,adsl,adsl1234
+黑盾防火墙,admin/rule/audit,admin/abc123
+合勤 zyxel 642,(none),1234
+海纳CMS-HituxCMS,admin,admin
+海康威视联网网关,admin,12345
+海康威视 流媒体,admin,12345
+飞塔防火墙,admin,(none)
+方正防火墙,admin,admin
+泛微 OA 协同办公系统,sysadmin,1
+泛德,admin,conexant
+动网论坛,admin,admin888/admin
+东信 Ea700,(none),password
+电信网关配置管理,admin,admin
+电信ZXHN F450A网关,telecomadmin,nE7jA%5m
+大亚DB102,admin,dare
+大亚 DB102,admin,dare
+大唐,admin,1234
+大恒,admin,admin
+成都天逸,admin,epicrouter
+畅捷通 T+ 数据库,TPlusDBAdmin,tplus_12345
+博华网龙一体机,admin,bravo_2008
+碧海云盒,admin,admin123
+碧海威产品,admin,admin/admin123
+北电,anonymous,12345
+百卓网络Smart多业务安全网关,admin,admin
+百傲瑞达V5000,admin,admin
+安网科技-智能路由系统,admin,admin
+爱快(iKuai),admin,admin
+艾泰网络管理系统,admin,admin
+艾玛 701H,admin,epicrouter
+艾玛 701g,admin/SZIM,admin/SZIM
+阿姆瑞特智能DNS,idnsadmin,admin
+阿姆瑞特防火墙,admin,manager
+阿里巴巴otter manager,admin,admin
+阿里巴巴 NACOS,nacos,nacos
+阿尔卡特,(none),(none)
+阿尔法,admin,admin
+Zyxel NWA/NAP/WAC wireless access point series,devicehaecived,1234
+,anonymous,1234
+,zyfwp,PrOw!aN_fXp
+,1234,1234
+,192.168.1.1 60020,@dsl_xilno
+,无,1234
+,无,admin
+,Admin,atc456
+,admin,0
+,admin,1234
+,admin,无
+,admin,admin
+,root,1234
+,webadmin,1234
+ZTE中兴,admin,admin
+,ZXDSL,ZXDSL
+,user,user
+,on,on
+,root,Zte521
+,root,W!n0&oO7.
+,ADSL,expert03
+Zoom,admin,zoomadsl
+ZEOS,无,zeosx
+Zenith,无,3098z
+,无,Zenith
+zenitel,admin,alphaadmin
+,ADMIN,alphacom
+,无,1851
+,无,1234
+Zebra Technologies,admin,1234
+Zcomax,admin,password
+Zcom,root,admin
+Zabbix,Admin,zabbix
+Yuxin,User,1234
+,User,19750407
+Yokogawa,<N/A>,727
+Yokogawa,admin,!admin
+Yakumo,admin,admin
+Xyplex,无,access
+,无,system
+,setpriv,system
+Xylan,admin,switch
+,diag,switch
+X-Micro,1502,1502
+,super,super
+Xinit Systems Ltd.,openfiler,password
+Xerox,11111,无
+XEROX,admin,1111
+Xerox,11111,x-admin
+,无,11111
+,<N/A>,0
+,Administrator,Fiery.1
+,NSA,nsa
+,admin,2222
+,admin,22222
+,admin,无
+,admin,admin
+,admin,x-admin
+,savelogs,crash
+,<N/A>,admin
+xd,xd,xd
+Xavi,admin,admin
+XAMPP,newuser,wampp
+Wyse,无,Fireport
+,<N/A>,password
+,VNC,winterm
+,rapport,r@p8p0r+
+,root,无
+,root,wyse
+WWWBoard,WebAdmin,WebBoard
+WST RT1080,root,root
+WST ART18CX,admin/user,conexant/password
+WorldClient,WebAdmin,Admin
+Wonderware Historian,aaAdmin,pwAdmin
+,aaPower,pwPower
+,aaUser,pwUser
+,aadbo,pwddbo
+,wwUser,wwUser
+,wwPower,wwPower
+,wwAdmin,wwAdmin
+,wwdbo,wwdbo
+wline,admin,1234
+WLAN_3D,Administrator,admin
+WiseGrid慧敏应用交付网关,admin,sinogrid
+"Wireless, Inc.",root,rootpass
+winwork,operator,无
+Websense邮件安全网关,administrator,admin
+Webramp,wradmin,trancell
+Webmin,admin,hp.com
+Weblogic,weblogic,weblogic1
+,system,manager
+,WEBLOGIC,WEBLOGIC
+,PUBLIC,PUBLIC
+,EXAMPLES,EXAMPLES
+,system,password
+,weblogic,welcome(1)
+,system,welcome(1)
+,operator,weblogic
+,operator,password
+,system,Passw0rd
+,monitor,password
+,system,weblogic
+Web Wiz,Administrator,letmein
+WD-wdCP云主机管理系统,admin,wdlinux.cn
+WAYOS维盟路由器,root,admin/admin888
+WatchGuard,无,wg
+,admin,admin
+,admin,readwrite
+,status,readonly
+,无,wg
+,admin,无
+,user,pass
+warraCorp,pepino,pepino
+Wang公众号网络安全新视界,CSG,SESAME
+"Wanco, Inc.",无,ABCD
+,无,Guest
+,无,NTCIP
+,无,Public
+Wanadoo,admin,admin
+WAAV,admin,waav
+VxWorks,admin,admin
+,guest,guest
+VPASP,admin,admin
+,vpasp,vpasp
+Vonage,user,user
+VoiceObjects Germany,voadmin,manager
+VoiceGenie Technologies,pw,pw
+Vobis,无,merlin
+vnc,无,123456
+,无,FELDTECH_VNC
+,无,vnc_pcc
+,无,elux
+,无,Passwort
+,无,visam
+,无,password
+,无,Amx1234!
+,无,1988
+,无,admin
+,无,Vision2
+,无,ADMIN
+,无,TOUCHLON
+,无,EltakoFVS
+,无,Wyse#123
+,无,muster
+,无,passwd11
+,无,qwasyx21
+,无,Administrator
+,无,ripnas
+,无,eyevis
+,无,fidel123
+,无,Admin#1
+,无,default
+,无,sigmatek
+,无,hapero
+,无,1234
+,无,pass
+,无,raspberry
+,无,user
+,无,solarfocus
+,无,AVStumpfl
+,无,m9ff.QW
+,无,maryland-dstar
+,无,pass1
+,无,pass2
+,无,instrument
+,无,beijer
+,无,vnc
+,无,yesco
+,无,protech
+,无,Wyse
+Visual Networks,admin,visual
+Visa VAP,root,QNX
+Virtual Programming,admin,admin
+,vpasp,vpasp
+viking,adsl,adsl1234
+,root,grouter
+VieNuke,admin,admin
+videoiq,supervisor,supervisor
+Video Web Server,admin,admin
+Video Insight,sa,V4in$ight
+Vextrec Technology,无,Vextrex
+vertex,root,vertex25
+Verizon,admin,password
+Verity,admin,admin
+Veritas,admin,password
+Verifone,无,166816
+Veramark,admin,password
+VBrick Systems,admin,admin
+VASCO,admin,无
+Various,root,admin
+vacron,admin,admin
+UTStarcom,dbase,dbase
+,field,field
+,guru,*3noguru
+,snmp,snmp
+UTStar ut-300R,root,utstar
+,admin,utstar
+UTC FCWnx,sa,SecurityMaster08
+UT Lexar,lexar,无
+USRobotics,admin,admin
+,Any,12345
+UniWAN智能流量管控系统,admin,admin@123
+United Technologies Corporation,admin,1234
+Unisys,ADMINISTRATOR,ADMINISTRATOR
+,HTTP,HTTP
+,NAU,NAU
+Union,root,root
+Unify,无,123456
+UniFi设备,ubnt,ubnt
+ubiquiti,root,root
+Unidesk,Administrator,Unidesk1
+UNEX,<N/A>,password
+Typo3 Association,admin,password
+,无,joh316
+TVT System,无,enter
+,craft,无
+TurboStore,admin,admin321
+Tumbleweed,Admin,SECRET123
+Tsunami,managers,managers
+Troy,admin,extendnet
+Triumph-Adler,admin,0
+Tripp Lite,root,TrippLite
+Trintech,t3admin,Trintech
+TRENDnet Internet Camera,admin,admin
+TrendNET,admin,password
+TrendMicro,admin,imss7.0
+,admin,admin
+,admin,imsa7.0
+,root,trendimsa1.0
+,admin,admin
+,admin,imsa7.0
+,root,trendimsa1.0
+TP-LINK 通用型号/TD-8800,admin,admin
+TOTOLINK,onlime_r,12345
+,root,12345
+Toshiba,无,24Banc81
+,无,Toshiba
+,无,toshy99
+,Admin,123456
+,admin,123456
+,super,superpass
+topsec,superman,talent
+topnet,topadmin,topadmin
+TopLayer,siteadmin,toplayer
+Topcom,admin,admin
+TongWeb(东方通) Server,thanos,thanos123.com
+,cli,cli123.com
+,twns,twns
+Tomcat,admin,admin/root/tomcat/role1/changethis/j5Brn9
+,root,admin/root/tomcat/role1/changethis/j5Brn9
+,tomcat,admin/root/tomcat/role1/changethis/j5Brn9
+,both,admin/root/tomcat/role1/changethis/j5Brn9
+,role1,admin/root/tomcat/role1/changethis/j5Brn9
+TimeTools,admin,admin
+TimeForce,sa,Dr8gedog
+Tim Schaab,theman,changeit
+TIBCO,admin,admin
+,admin,changeit
+Tiara Networks,<N/A>,tiara
+,tiara,tiaranet
+Thomson,无,admin
+,<N/A>,admin
+,admin,admin
+,admin,password
+,admin,admin
+,admin,password
+ThinkAdmin v6,admin,admin
+Thecus Tech,admin,admin
+TextPortal,god1,12345
+TexBox,无,123
+tert,james,james
+Terayon,admin,password
+Telus,(created),telus00
+Telus,(created),telus99
+TELTRONIC S.A.U.,admin,tetra
+Tellabs,root,admin_1
+Tellabs,tellabs,tellabs#1
+Telindus,admin,admin
+Telewell,admin,admin
+Telewell,admin,password
+Teletronics,admin,1234
+Telestream Vantage,sa,vantage12!
+Teleopti WFM,admin@company.com,admin
+Telelec,eagle,eagle
+Teledat,admin,1234
+telecom,operator,无
+Telebit,setup,setup
+Telebit,snmp,nopasswd
+Telco Systems,telco,telco
+Telappliant,admin,1234
+Teklogix,Administrator,无
+Tegile,admin,tegile
+technology,root,无
+technicolor,admin,admin
+TeamCity 9 Guest,无,无
+Team Xodus,xbox,xbox
+T-Comfort,Administrator,无
+T-com,veda,12871
+Solar网络管理系统,sobey,sobey
+SolarWinds,LocalAdministrator,#l@$ak#.lk;0@P
+SeedDMS - 文档管理系统,admin,admin
+OneFish 蜜罐,admin,OneFish2021
+LogBase日志管理综合审计系统,admin,safetybase
+IP-COM深度上网行为管理,admin,admin
+Hillstone安全审计平台,hillstone,hillstone
+hikvision,admin,12345
+Harbor Registry 服务器,admin,Harbor12345
+Haivision Makito X Decoder,admin,manager
+H3C,admin,admin
+,system,admin
+,test,123
+,admin,adminer3260
+,admin,adminer3200
+,admin,adminer3100
+,admin,123456/admin
+,admin/h3c,adminer/admin/h3capadmin/h3c
+Grafana,admin,admin
+,Admin,
+F5-BIG-IQ,admin,admin
+,root,default
+eyou(易优)cms,admin,admin
+EasyNVS 后台管理系统,admin,admin
+360天擎,admin,admin
+360 Systems,factory,factory
+天行光闸,super,TopFGAP123
+,admin,Topwalkadmin123
+迪普,admin,admin_default
+安恒明御,admin,adminadmin
+天融信NGTOS系列,superman,Talent@123456
+百川智能S150管理平台,admin,b3f9t8k7
+Oms呼叫中心,,KXTsoft2010
+Glodon控制台,,admin
+MOBOTIX-视频监控,admin,meinsm
+DRS,admin,1234
+安迅士Axis,root,pass
+金砖通讯Brickcom,admin,admin
+佳能Canon,root,camera
+ShowDoc,showdoc,123456
+walle Devops代码部署平台,super@walle-web.io,Walle123
+,owner@walle-web.io,
+,master@walle-web.io,
+,developer@walle-web.io,
+,reporter@walle-web.io,
+凌风认证计费系统,admin,lflflf
+浙江大华DSS安防监控系统,admin,123456
+Apollo配置中心,apollo,admin
+Banggoo-ADC般固服务器负载均衡,admin,admin
+Geoserver,admin,admin
+Avigilon-VideoIQ-Camera,supervisor,supervisor
+Lepus天兔数据库监控系统默认口令,admin,Lepusadmin
+OpenKM文档管理系统,okmAdmin,admin
+Opencast Matterhorn,admin,opencast
+SequoiaDB数据管理后台,admin,admin
+smartadmin-简致微信管理系统,smartwx,smartwx
+金蝶云星空管理中心,administrator,888888
+碧海网络-碧海云盒软路由,admin,admin123
+腾狐TOS行为管理系统,admin,admin
+netcallServer 管理控制台,admin,admin
+华御上网行为管理系统,admin,bjhuayu
+,guest,guest*PWD
+,reporter,reporter*PWD
+奥托温室物联网系统,admin,12345
+锁群管理系统,admin,123456
+神行者路由,admin,sxzros
+LanProxy,Admin,admin
+神州数码DCN路由器,admin,admin
+Yearning开源SQL语句审核平台,admin,admin
+SQ-WEBCAM摄像机,Admin,admin
+广州安普达视频监控,system,system
+AirCam IP-150CAM摄像头,admin,airlive
+喜恩碧电子有限公司CNB,root,admin
+助友煤炭运销管理系统,manager,zhuyosoft.do
+,,zhuyousoft.com
+Storwize V7000存储管理,superuser,passw0rd
+apc系统管理员,apc,apc
+北恩网络设备,admin,admin
+kibana,admin,admin
+ERG2-1350W 路由器,admin,admin
+Ceph分布式文件系统,admin,admin
+六方云工业网闸,secadmin,zxas6cld
+EPON 网络管理系统,Admin,123456
+OfficeTen上网行为管理,Useradmin,admin!@#$%^
+中创中间件(InforSuite AS),admin,Cvicse@as123
+猎鹰安全-金山V8+终端安全系统/Kingsoft V8,admin,admin
+艾泰科技(UTT-Device),admin,admin
+KubePi,admin,kubepi
+Kuboard,admin,kuboard123
+致远OA,system,system
+,group-admin,123456
+,admin1,
+,audit-admin,
+EudemonJuniper防火墙,netscreen,netscreen
+kill防火墙(冠群金辰),admin,sys123

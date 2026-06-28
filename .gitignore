@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Pipeline intermediate outputs (final outputs in phase3_merged/ are tracked)
+output/phase1_converted/
+output/phase2_normalized/
+output/all_raw_merged*.csv
+
+# Scripts archive
+scripts/archive/
+
+# Cloned external repos (their .git dirs should not be tracked)
+raw_archive/*/.git/

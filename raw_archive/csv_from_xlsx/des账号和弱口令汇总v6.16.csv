@@ -1,0 +1,149 @@
+﻿应用名称,密码,备注
+elasticsearch,http://IP:9200（需启用 HTTPS）,"老版本为changeme，8.X后续版本
+首次启动时自动生成随机密码"
+Swagger UI,,
+Nexus,默认8081端口,admin/admin123
+kibana,默认5601端口,kibana在Elastic Stack的默认安装中，Kibana的密码是自动生成的，并且会在安装过程中显示在终端上。这个密码只会显示一次
+gitlab,默认9090端口,root/5iveL!fe
+Jumpserver,,首次搭建为admin/admin 注册邮箱之后就会强行更改
+Airflow,默认8080端口,
+飞致云DataEase,默认80端口,admin/dataease | admin/DataEase123
+Smartbi,默认18080端口,admin/manager
+Dify,默认8000端口,admin/admin | admin/password
+Xinference,默认端口9997,
+Node Exporter,,
+Consul,HTTP API 端口：8500,Consul 在默认情况下没有设置密码。这意味着任何人都可以访问 Consul 的 HTTP API 和其他服务
+HashiCorp,,
+Docker,默认端口是2375,无默认密码，但可能存在未授权
+Harbor,默认端口5000,Harbor/Harbor12345
+Nacos,默认8848端口,nacos/nacos | 可能存在默认key和权限绕过
+东方通,默认9060端口,thanos / 112312   默认密码（thanos123.com）
+XXL-JOB,,admin/123456
+ActiveMQ,,admin/admin
+JupyterLab,默认端口是8888,
+APISIX,默认端口是9080,admin/admin
+Prometheus,默认端口是9090,admin/admin
+永中文档转换服务,默认8080端口,admin/admin
+LiveBOS控制台,默认8080端口,admin/admin | admin/123456
+RabbitMQ,默认15672端口,guest/guest
+Superset,默认8088端口,
+Coremail,,admin/admin|admin/coremail
+金蝶Apusic,"管理控制台端口：默认为6888
+应用访问端口：默认为8080",
+Druid,默认8080端口,"ruoyi/123456
+ry/123456
+ruoyi/admin123
+dy/admin123
+admin/admin
+admin/123456
+admin/admin123"
+Discuz,,admin/discuz@1234
+Drupal,,admin/admin
+KubeSphere,默认端口30880,admin/P@88w0rd
+天融信防火墙,,"superman 密码  Talent@123456| 
+Talent@123|talent!23|talent"
+Portainer,"http://ip:9000
+https://ip:9443",默认用户为admin 密码自定义
+若依管理系统,,"ruoyi/123456
+admin/admin123
+其他可能组合
+用户：admin ruoyi druid            
+密码：123456 admin druid admin123 admin888"
+Jenkins,,
+Alertmanager,,
+Joomla,,
+禅道CMS,,admin/123456
+用友NC,,默认密码 1或者 123456
+WordPress,,
+Zabbix,默认8080端口,Admin/zabbix
+达梦企业管理系统,,SYSDBA/SYSDBA
+Apereo CAS,,casuser/Mellon
+kkFileView,,admin/123456
+Apache APISIX Dashboard,,admin/123456
+JEECMS,,admin/admin
+YAPI,,admin/ymfe.org
+Jimu Report,,admin/123456
+Gunicorn,默认8000端口,
+Spring,,
+Shiro,,
+Spring Boot,默认8080端口,
+fastjson,,
+Django,默认8000端口,
+Next.js,,
+Struts2,默认8080端口,
+Highcharts,,
+CKEditor,,
+Apache,,
+Dubbo,"Dubbo服务默认端口：2088034。
+Zookeeper注册中心默认端口：218134。
+Dubbo-admin管理控制台默认端口：8080（部署在Tomcat等容器中），访问路径为http://localhost:8080/dubbo-admin12。部分情况下，Dubbo-admin也可能使用其他端口，如7001或8181",root/root | root/guest
+ThinkPHP,,admin/admin888|admin/123456
+Tomcat,默认8080端口,admin/admin | tomcat/tomcat
+Jetty,8080,无（使用应用时可能有）
+Citrix Virtual Apps and Desktops,1494,可能为空密码或“admin”
+XenServer,80（HTTP）、443（HTTPS）,可能为空密码或特定默认密码（安装时设置）
+Docker Distribution Api,5000,无（需配置认证）
+Spring Boot Actuator,8080（可配置）,无（需配置安全策略）
+XXL - JOB,8080,admin/123456
+Nexus Repository Manager,5000,admin123（首次登录需修改）
+DolphinDB,8848,123456
+Prometheus Node Exporter,9100,无
+Jupyter Notebook,8888,无（可配置添加）
+帆软报表系统,8075,123456
+Apache Druid,8082（Broker）、8081（Coordinator）,admin/123456 ruoyi/123456
+Hadoop Yarn,8088,无（可配置添加）
+达梦企业管理系统 DEM,5236,admin
+H3C公司产品,80（HTTP）、443（HTTPS）,因产品而异
+青藤云主机,443,创建实例时提供（需立即修改）
+Gitea,3000,安装过程中设置
+Oracle DMS,1521,安装过程中设置
+联软IT安全运维管理系统,8080,admin
+Apache Superset,8088,安装时自定义
+深信服SSL - VPN,443,admin或sangfor@2018（部分版本需结合登录地址判断）
+天融信防火墙（通用）,80（HTTP）、443（HTTPS）,talent或talent!23（不同版本可能不同）
+天融信防火墙（USG系列）,8080,Admin@123
+金蝶Apusic中间件,8080,admin（首次启动需初始化密码）
+Grafana,3000,admin（首次登录后需修改）
+Ruoyi CMS,80,admin/admin123（需在application.yml中配置数据库连接）
+Druid监控,8080（随应用端口）,空或需配置
+Hadoop Administration,50070,无（需结合HDFS权限管理）
+泛微OA,80,1（部分版本可能不同）
+Apache APISIX,9080（HTTP）、9443（HTTPS）,无（需通过config.yaml配置）
+Adminer,8080,无（需配置数据库访问权限）
+大数据管理平台Ambari,8080,admin/admin
+Mellon,8080（需场景确认）,casuser/Mellon
+金蝶天燕,9080,admin/admin
+软件仓库,5000,admin/空
+宝兰德Web服务器软件,8080,admin/B#2008_2108#es
+BladeLogic RSCD agent,7415,Rbacadmin/sa
+MySQL数据增量同步,3306,canal/canal
+数据库管理系统,5236,default/空
+达梦数据库,,SYSDBA/SYSDBA
+华为高斯数据库,5432,admin/Gauss_234
+代码托管仓库,54321,gitea/gitea
+无客户端的远程桌面网关,2881,guacadmin/guacadmin
+Kafka,3000,admin/123456
+人大金仓,443,system/123456
+MinIO,9092,minioadmin/minioadmin
+Neo4j,9000（API）、9001（Web）,neo4j/neo4j
+Nexus2,7474（HTTP）、7687（Bolt）,admin/admin123
+NTP,5000,admin/111111
+OceanBase,123,admin/OceanBase_123#
+RocketMQ,9876（NameServer）、10911（Broker）,admin/admin
+思迈特,8075,admin:manager demo:demo
+supervisor,9001,admin/123456
+WebLogic,7001,"weblogic/weblogic1
+system/manager
+WEBLOGIC/WEBLOGIC
+PUBLIC/PUBLIC
+EXAMPLES/EXAMPLES
+system/password
+weblogic/welcome(1)
+system/welcome(1)
+operator/weblogic
+operator/password
+system/Passw0rd
+monitor/password
+system/weblogic"
+WebSphere,9080（HTTP）、9443（HTTPS）,"system/ manager
+websphere/ websphere"
